@@ -1,0 +1,2872 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: NOO Organici\n"
+"POT-Creation-Date: 2017-06-06 16:40+0700\n"
+"PO-Revision-Date: 2017-06-06 16:40+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:8
+msgid "The page you are looking for does not exist. "
+msgstr ""
+
+#: 404.php:9
+msgid "404 error"
+msgstr ""
+
+#: 404.php:10
+msgid "return to home page"
+msgstr ""
+
+#: comments.php:16
+msgid "Comments"
+msgstr ""
+
+#: comments.php:16
+msgid "Comment"
+msgstr ""
+
+#: comments.php:29
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:30
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:31
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:36
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:44
+msgid "Submit"
+msgstr ""
+
+#: content-audio.php:21 content-gallery.php:19 content-image.php:21
+#: content-masonry.php:29 content-quote.php:20 content-search.php:23
+#: content-video.php:21 content.php:21
+#, php-format
+msgid "Permanent link to: \"%s\""
+msgstr ""
+
+#: content-masonry.php:65 includes/functions/noo-html.php:23
+msgid "View more"
+msgstr ""
+
+#: content-none.php:15
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:22
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:26
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-page.php:13
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:17
+msgid "Page"
+msgstr ""
+
+#: footer.php:37
+msgid "Footer Top"
+msgstr ""
+
+#: footer.php:38 footer.php:66
+msgid "Click here to add your widgets"
+msgstr ""
+
+#: functions.php:106
+msgid "Type and Press Enter to Search"
+msgstr ""
+
+#: functions.php:107
+msgid "Search..."
+msgstr ""
+
+#: functions.php:125
+msgctxt "Previous post link"
+msgid "%title"
+msgstr ""
+
+#: functions.php:126
+msgctxt "Next post link"
+msgid "%title"
+msgstr ""
+
+#: functions.php:177
+msgid "Share this post"
+msgstr ""
+
+#: functions.php:211
+msgid " By "
+msgstr ""
+
+#: includes/add_metabox/farmer-meta-boxes.php:28
+msgid "Farmer Information:"
+msgstr ""
+
+#: includes/add_metabox/farmer-meta-boxes.php:32 widgets/widgets.php:559
+#: woocommerce/cart/cart.php:26
+msgid "Image"
+msgstr ""
+
+#: includes/add_metabox/farmer-meta-boxes.php:37
+msgid "Name"
+msgstr ""
+
+#: includes/add_metabox/farmer-meta-boxes.php:47
+msgid "Media Data: Social"
+msgstr ""
+
+#: includes/add_metabox/farmer-meta-boxes.php:51
+#: includes/functions/noo-html.php:303 widgets/widgets.php:674
+msgid "Facebook"
+msgstr ""
+
+#: includes/add_metabox/farmer-meta-boxes.php:56
+#: includes/functions/noo-html.php:304 widgets/widgets.php:688
+msgid "Twitter"
+msgstr ""
+
+#: includes/add_metabox/farmer-meta-boxes.php:61
+msgid "Google +"
+msgstr ""
+
+#: includes/add_metabox/farmer-meta-boxes.php:66
+msgid "Linkedin"
+msgstr ""
+
+#: includes/add_metabox/farmer-meta-boxes.php:71 widgets/widgets.php:730
+msgid "Flickr"
+msgstr ""
+
+#: includes/add_metabox/farmer-meta-boxes.php:76
+#: includes/functions/noo-html.php:306 widgets/widgets.php:723
+msgid "Pinterest"
+msgstr ""
+
+#: includes/add_metabox/farmer-meta-boxes.php:81
+#: includes/functions/noo-html.php:310 widgets/widgets.php:737
+msgid "Instagram"
+msgstr ""
+
+#: includes/add_metabox/farmer-meta-boxes.php:86
+msgid "Tumblr"
+msgstr ""
+
+#: includes/add_metabox/page-meta-boxes.php:28
+msgid "Page Settings"
+msgstr ""
+
+#: includes/add_metabox/page-meta-boxes.php:29
+msgid "Choose various setting for your Page."
+msgstr ""
+
+#: includes/add_metabox/page-meta-boxes.php:33
+msgid "Header setting"
+msgstr ""
+
+#: includes/add_metabox/page-meta-boxes.php:34
+msgid "Header setting."
+msgstr ""
+
+#: includes/add_metabox/page-meta-boxes.php:52
+msgid "Footer setting"
+msgstr ""
+
+#: includes/add_metabox/page-meta-boxes.php:53
+msgid "Footer setting."
+msgstr ""
+
+#: includes/add_metabox/page-meta-boxes.php:68
+msgid "Menu Logo"
+msgstr ""
+
+#: includes/add_metabox/page-meta-boxes.php:69
+msgid "Menu Logo."
+msgstr ""
+
+#: includes/add_metabox/page-meta-boxes.php:77
+msgid "Navbar Position"
+msgstr ""
+
+#: includes/add_metabox/page-meta-boxes.php:78
+msgid "Navbar Position for Page"
+msgstr ""
+
+#: includes/add_metabox/page-meta-boxes.php:92
+msgid "Menu Logo Sticky"
+msgstr ""
+
+#: includes/add_metabox/page-meta-boxes.php:93
+msgid "Menu Logo Sticky."
+msgstr ""
+
+#: includes/add_metabox/page-meta-boxes.php:101
+msgid "Hidden Heading Image."
+msgstr ""
+
+#: includes/add_metabox/page-meta-boxes.php:110
+#: includes/add_metabox/post-meta-boxes.php:223
+#: includes/add_metabox/product-meta-boxes.php:60
+#: includes/add_metabox/taxonomy-meta.php:14
+#: includes/add_metabox/taxonomy-meta.php:104
+#: includes/customizer/options.php:1211 includes/customizer/options.php:1759
+msgid "Heading Background Image"
+msgstr ""
+
+#: includes/add_metabox/page-meta-boxes.php:111
+#: includes/add_metabox/product-meta-boxes.php:61
+msgid "An unique heading image for this page"
+msgstr ""
+
+#: includes/add_metabox/page-meta-boxes.php:120
+msgid "Sidebar"
+msgstr ""
+
+#: includes/add_metabox/page-meta-boxes.php:125
+msgid "Page Sidebar"
+msgstr ""
+
+#: includes/add_metabox/post-meta-boxes.php:27
+msgid "Gallery Settings"
+msgstr ""
+
+#: includes/add_metabox/post-meta-boxes.php:39
+#: includes/add_metabox/post-meta-boxes.php:89
+msgid "Preview Content"
+msgstr ""
+
+#: includes/add_metabox/post-meta-boxes.php:44
+#: includes/add_metabox/post-meta-boxes.php:95
+msgid "Featured Image"
+msgstr ""
+
+#: includes/add_metabox/post-meta-boxes.php:48
+msgid "First Image on Gallery"
+msgstr ""
+
+#: includes/add_metabox/post-meta-boxes.php:52
+msgid "Image Slideshow"
+msgstr ""
+
+#: includes/add_metabox/post-meta-boxes.php:65
+msgid "Video Settings"
+msgstr ""
+
+#: includes/add_metabox/post-meta-boxes.php:69
+#: includes/framework/meta-boxes/class-helper.php:144
+msgid "Embedded Video Code"
+msgstr ""
+
+#: includes/add_metabox/post-meta-boxes.php:70
+msgid ""
+"If you are using videos from online sharing sites (YouTube, Vimeo, etc.) "
+"paste the embedded code here. This field will override the above settings."
+msgstr ""
+
+#: includes/add_metabox/post-meta-boxes.php:76
+#: includes/framework/meta-boxes/class-helper.php:130
+msgid "Video Aspect Ratio"
+msgstr ""
+
+#: includes/add_metabox/post-meta-boxes.php:77
+#: includes/framework/meta-boxes/class-helper.php:131
+msgid "Choose the aspect ratio for your video."
+msgstr ""
+
+#: includes/add_metabox/post-meta-boxes.php:99
+msgid "Video"
+msgstr ""
+
+#: includes/add_metabox/post-meta-boxes.php:112
+msgid "Audio Settings"
+msgstr ""
+
+#: includes/add_metabox/post-meta-boxes.php:116
+msgid "Embedded Audio Code"
+msgstr ""
+
+#: includes/add_metabox/post-meta-boxes.php:117
+msgid ""
+"If you are using videos from online sharing sites (like Soundcloud) paste "
+"the embedded code here. This field will override above settings."
+msgstr ""
+
+#: includes/add_metabox/post-meta-boxes.php:129
+msgid "Quote Settings"
+msgstr ""
+
+#: includes/add_metabox/post-meta-boxes.php:133
+msgid "The Quote"
+msgstr ""
+
+#: includes/add_metabox/post-meta-boxes.php:134
+msgid "Input your quote."
+msgstr ""
+
+#: includes/add_metabox/post-meta-boxes.php:139
+msgid "Citation"
+msgstr ""
+
+#: includes/add_metabox/post-meta-boxes.php:140
+msgid "Who originally said the quote?"
+msgstr ""
+
+#: includes/add_metabox/post-meta-boxes.php:145
+msgid "Alias"
+msgstr ""
+
+#: includes/add_metabox/post-meta-boxes.php:146
+msgid "Alias of person said the quote?"
+msgstr ""
+
+#: includes/add_metabox/post-meta-boxes.php:158
+msgid "Link Settings"
+msgstr ""
+
+#: includes/add_metabox/post-meta-boxes.php:162
+#: includes/framework/meta-boxes/class-helper.php:109
+msgid "The Link"
+msgstr ""
+
+#: includes/add_metabox/post-meta-boxes.php:174
+msgid "Page Settings: Single Post"
+msgstr ""
+
+#: includes/add_metabox/post-meta-boxes.php:175
+msgid "Choose various setting for your Single Post page."
+msgstr ""
+
+#: includes/add_metabox/post-meta-boxes.php:178
+#: includes/add_metabox/post-meta-boxes.php:191
+#: includes/add_metabox/product-meta-boxes.php:33
+msgid "Page Layout"
+msgstr ""
+
+#: includes/add_metabox/post-meta-boxes.php:183
+#: includes/add_metabox/product-meta-boxes.php:25
+msgid "Override Global Settings?"
+msgstr ""
+
+#: includes/add_metabox/post-meta-boxes.php:197
+#: includes/add_metabox/product-meta-boxes.php:39
+#: includes/customizer/options.php:1140 includes/customizer/options.php:1333
+#: includes/customizer/options.php:1475 includes/customizer/options.php:1511
+#: includes/customizer/options.php:1577 includes/customizer/options.php:1722
+#: includes/customizer/options.php:1820
+msgid "Full-Width"
+msgstr ""
+
+#: includes/add_metabox/post-meta-boxes.php:201
+#: includes/add_metabox/product-meta-boxes.php:43
+#: includes/customizer/options.php:1141 includes/customizer/options.php:1334
+#: includes/customizer/options.php:1476 includes/customizer/options.php:1512
+#: includes/customizer/options.php:1578 includes/customizer/options.php:1723
+#: includes/customizer/options.php:1821
+msgid "With Right Sidebar"
+msgstr ""
+
+#: includes/add_metabox/post-meta-boxes.php:205
+#: includes/add_metabox/product-meta-boxes.php:47
+#: includes/customizer/options.php:1142 includes/customizer/options.php:1335
+#: includes/customizer/options.php:1477 includes/customizer/options.php:1513
+#: includes/customizer/options.php:1579 includes/customizer/options.php:1724
+#: includes/customizer/options.php:1822
+msgid "With Left Sidebar"
+msgstr ""
+
+#: includes/add_metabox/post-meta-boxes.php:211
+#: includes/customizer/options.php:1351
+msgid "Post Sidebar"
+msgstr ""
+
+#: includes/add_metabox/post-meta-boxes.php:224
+msgid ""
+"An unique heading image for this post. If leave it blank, the default "
+"heading image of Blog ( in Customizer settings ) will be used."
+msgstr ""
+
+#: includes/add_metabox/product-meta-boxes.php:21
+msgid "Page Settings: Single Product"
+msgstr ""
+
+#: includes/add_metabox/product-meta-boxes.php:22
+msgid "Choose various setting for your Single Product page."
+msgstr ""
+
+#: includes/add_metabox/product-meta-boxes.php:53
+#: includes/customizer/options.php:1838
+msgid "Product Sidebar"
+msgstr ""
+
+#: includes/add_metabox/taxonomy-meta.php:16
+#: includes/add_metabox/taxonomy-meta.php:78
+#: includes/add_metabox/taxonomy-meta.php:117
+msgid "Upload/Add Image"
+msgstr ""
+
+#: includes/add_metabox/taxonomy-meta.php:17
+#: includes/add_metabox/taxonomy-meta.php:122
+#: includes/framework/meta-boxes/generate-meta-box.php:277
+msgid "Clear Image"
+msgstr ""
+
+#: includes/add_metabox/taxonomy-meta.php:23
+msgid "If you leave it blank, it will use the default background image."
+msgstr ""
+
+#: includes/add_metabox/taxonomy-meta.php:39
+#: includes/add_metabox/taxonomy-meta.php:140
+#: includes/framework/meta-boxes/generate-meta-box.php:299
+msgid "Select or Upload your Image"
+msgstr ""
+
+#: includes/add_metabox/taxonomy-meta.php:41
+#: includes/add_metabox/taxonomy-meta.php:142
+#: includes/framework/meta-boxes/generate-meta-box.php:230
+#: includes/framework/meta-boxes/generate-meta-box.php:301
+msgid "Select"
+msgstr ""
+
+#: includes/add_metabox/taxonomy-meta.php:67
+#: includes/add_metabox/taxonomy-meta.php:112
+#: includes/add_metabox/taxonomy-meta.php:168
+#: includes/framework/meta-boxes/generate-meta-box.php:274
+#: includes/framework/meta-boxes/generate-meta-box.php:327
+msgid "Change Image"
+msgstr ""
+
+#: includes/add_metabox/taxonomy-meta.php:124
+msgid ""
+"If you leave it blank, it will use the image set on Customizer setting for "
+"Index page."
+msgstr ""
+
+#: includes/add_metabox/taxonomy-meta.php:179
+#: includes/framework/meta-boxes/generate-meta-box.php:274
+#: includes/framework/meta-boxes/generate-meta-box.php:338
+msgid "Select Image"
+msgstr ""
+
+#: includes/add_metabox/testimonial-meta-box.php:12
+msgid "Testimonial options"
+msgstr ""
+
+#: includes/add_metabox/testimonial-meta-box.php:16
+msgid "Your Image"
+msgstr ""
+
+#: includes/add_metabox/testimonial-meta-box.php:21
+msgid "Your Name"
+msgstr ""
+
+#: includes/add_metabox/testimonial-meta-box.php:26
+msgid "Your Position"
+msgstr ""
+
+#: includes/customizer/options.php:46
+msgid "Site Enhancement"
+msgstr ""
+
+#: includes/customizer/options.php:47
+msgid "Enable/Disable some features for your site."
+msgstr ""
+
+#: includes/customizer/options.php:55
+msgid "Custom Favicon"
+msgstr ""
+
+#: includes/customizer/options.php:67
+msgid "Back To Top Button"
+msgstr ""
+
+#: includes/customizer/options.php:73
+msgid "Enable Loading"
+msgstr ""
+
+#: includes/customizer/options.php:79
+msgid "Enable Page Heading"
+msgstr ""
+
+#: includes/customizer/options.php:87 includes/customizer/options.php:94
+msgid "Google Maps API Key"
+msgstr ""
+
+#: includes/customizer/options.php:88
+msgid ""
+"<strong>Google</strong> requires that you register an API Key to display "
+"Maps on from your website. To know how to create this application, <a target="
+"\"_blank\" href=\"https://support.nootheme.com/knowledge-base/get-google-"
+"maps-api/\">How to get Google API Key</a> "
+msgstr ""
+
+#: includes/customizer/options.php:110
+msgid "Design and Layout"
+msgstr ""
+
+#: includes/customizer/options.php:111
+msgid ""
+"Set Style and Layout for your site. Boxed Layout will come with additional "
+"setting options for background color and image."
+msgstr ""
+
+#: includes/customizer/options.php:119
+msgid "Site Layout"
+msgstr ""
+
+#: includes/customizer/options.php:122
+msgid "Fullwidth"
+msgstr ""
+
+#: includes/customizer/options.php:122
+msgid "Boxed"
+msgstr ""
+
+#: includes/customizer/options.php:141
+msgid "Site Width (%)"
+msgstr ""
+
+#: includes/customizer/options.php:153
+msgid "Site Max Width (px)"
+msgstr ""
+
+#: includes/customizer/options.php:166
+msgid "Background Color"
+msgstr ""
+
+#: includes/customizer/options.php:176 includes/customizer/options.php:184
+msgid "Background Image"
+msgstr ""
+
+#: includes/customizer/options.php:177
+msgid ""
+"Upload your background image here, you have various settings for your image:"
+"<br/><strong>Repeat Image</strong>: enable repeating your image, you will "
+"need it when using patterned background.<br/><strong>Alignment</strong>: Set "
+"the position to align your background image.<br/><strong>Attachment</"
+"strong>: Make your image scroll with your site or fixed.<br/><strong>Auto "
+"resize</strong>: Enable it to ensure your background image always fit the "
+"windows."
+msgstr ""
+
+#: includes/customizer/options.php:193
+msgid "Background Repeat"
+msgstr ""
+
+#: includes/customizer/options.php:197
+msgid "Repeat"
+msgstr ""
+
+#: includes/customizer/options.php:198
+msgid "No Repeat"
+msgstr ""
+
+#: includes/customizer/options.php:208
+msgid "BG Image Alignment"
+msgstr ""
+
+#: includes/customizer/options.php:212
+msgid "Left Top"
+msgstr ""
+
+#: includes/customizer/options.php:213
+msgid "Left Center"
+msgstr ""
+
+#: includes/customizer/options.php:214
+msgid "Left Bottom"
+msgstr ""
+
+#: includes/customizer/options.php:215
+msgid "Center Top"
+msgstr ""
+
+#: includes/customizer/options.php:216
+msgid "Center Center"
+msgstr ""
+
+#: includes/customizer/options.php:217
+msgid "Center Bottom"
+msgstr ""
+
+#: includes/customizer/options.php:218
+msgid "Right Top"
+msgstr ""
+
+#: includes/customizer/options.php:219
+msgid "Right Center"
+msgstr ""
+
+#: includes/customizer/options.php:220
+msgid "Right Bottom"
+msgstr ""
+
+#: includes/customizer/options.php:230
+msgid "BG Image Attachment"
+msgstr ""
+
+#: includes/customizer/options.php:234
+msgid "Fixed Image"
+msgstr ""
+
+#: includes/customizer/options.php:235
+msgid "Scroll with Site"
+msgstr ""
+
+#: includes/customizer/options.php:245
+msgid "Auto Resize"
+msgstr ""
+
+#: includes/customizer/options.php:253
+msgid "Color"
+msgstr ""
+
+#: includes/customizer/options.php:254
+msgid "Here you can set the color for links and various elements on your site."
+msgstr ""
+
+#: includes/customizer/options.php:261
+msgid "Primary Color"
+msgstr ""
+
+#: includes/customizer/options.php:273
+msgid "Secondary Color"
+msgstr ""
+
+#: includes/customizer/options.php:295
+msgid "Typography"
+msgstr ""
+
+#: includes/customizer/options.php:296
+msgid ""
+"Customize your Typography settings. Merito integrated all Google Fonts. See "
+"font preview at <a target=\"_blank\" href=\"http://www.google.com/fonts/"
+"\">Google Fonts</a>."
+msgstr ""
+
+#: includes/customizer/options.php:302
+msgid "Headings"
+msgstr ""
+
+#: includes/customizer/options.php:309
+msgid "Use Custom Headings Font?"
+msgstr ""
+
+#: includes/customizer/options.php:325
+msgid "Headings Font"
+msgstr ""
+
+#: includes/customizer/options.php:338 includes/customizer/options.php:387
+#: includes/customizer/options.php:766
+msgid "Font Color"
+msgstr ""
+
+#: includes/customizer/options.php:347 includes/customizer/options.php:691
+#: includes/customizer/options.php:777
+msgid "Transform to Uppercase"
+msgstr ""
+
+#: includes/customizer/options.php:355
+msgid "Body"
+msgstr ""
+
+#: includes/customizer/options.php:362
+msgid "Use Custom Body Font?"
+msgstr ""
+
+#: includes/customizer/options.php:378
+msgid "Body Font"
+msgstr ""
+
+#: includes/customizer/options.php:398 includes/customizer/options.php:654
+#: includes/customizer/options.php:751
+msgid "Font Size (px)"
+msgstr ""
+
+#: includes/customizer/options.php:418
+msgid "Header"
+msgstr ""
+
+#: includes/customizer/options.php:419
+msgid ""
+"Customize settings for your Header, including Navigation Bar (Logo and "
+"Navigation) and an optional Top Bar."
+msgstr ""
+
+#: includes/customizer/options.php:426
+msgid "General Options"
+msgstr ""
+
+#: includes/customizer/options.php:433
+msgid "Header style"
+msgstr ""
+
+#: includes/customizer/options.php:434
+msgid "Choose style for header"
+msgstr ""
+
+#: includes/customizer/options.php:441
+msgid "Header Style"
+msgstr ""
+
+#: includes/customizer/options.php:445
+msgid "Header Default"
+msgstr ""
+
+#: includes/customizer/options.php:446
+msgid "Header Business"
+msgstr ""
+
+#: includes/customizer/options.php:447
+msgid "Header Agency"
+msgstr ""
+
+#: includes/customizer/options.php:448
+msgid "Header Fullwidth"
+msgstr ""
+
+#: includes/customizer/options.php:449
+msgid "Header Shop"
+msgstr ""
+
+#: includes/customizer/options.php:450
+msgid "Header Logo Center"
+msgstr ""
+
+#: includes/customizer/options.php:462 includes/customizer/options.php:926
+msgid "Phone"
+msgstr ""
+
+#: includes/customizer/options.php:468
+msgid "Mobile Menu"
+msgstr ""
+
+#: includes/customizer/options.php:469
+msgid ""
+"Choose the style of your menu on mobile devices. Slide from right to left or "
+"standard drop-down top to bottom."
+msgstr ""
+
+#: includes/customizer/options.php:476
+msgid "Mobile Menu Style"
+msgstr ""
+
+#: includes/customizer/options.php:480
+msgid "Right to Left"
+msgstr ""
+
+#: includes/customizer/options.php:481
+msgid "Top to Bottom"
+msgstr ""
+
+#: includes/customizer/options.php:489
+msgid "Navigation Bar"
+msgstr ""
+
+#: includes/customizer/options.php:490
+msgid ""
+"Adjust settings for Navigation Bar. You also can customize some settings for "
+"the Toggle Button on Mobile in this section."
+msgstr ""
+
+#: includes/customizer/options.php:497
+msgid "NavBar Position"
+msgstr ""
+
+#: includes/customizer/options.php:501
+msgid "Static Top"
+msgstr ""
+
+#: includes/customizer/options.php:502
+msgid "Fixed Top"
+msgstr ""
+
+#: includes/customizer/options.php:516
+msgid "Upload Your Logo Sticky"
+msgstr ""
+
+#: includes/customizer/options.php:528 includes/customizer/options.php:848
+msgid "Show Shopping Cart"
+msgstr ""
+
+#: includes/customizer/options.php:539
+msgid "Show Shopping Cart on mobile"
+msgstr ""
+
+#: includes/customizer/options.php:548 includes/customizer/options.php:857
+msgid "Show Search Icon"
+msgstr ""
+
+#: includes/customizer/options.php:561 includes/customizer/options.php:870
+msgid "Show User Icon"
+msgstr ""
+
+#: includes/customizer/options.php:574 includes/customizer/options.php:883
+msgid "Show Wishlist Icon"
+msgstr ""
+
+#: includes/customizer/options.php:590
+#: includes/framework/customizer/_init.php:79
+msgid "NavBar Height (px)"
+msgstr ""
+
+#: includes/customizer/options.php:605
+msgid "NavBar Link Spacing (px)"
+msgstr ""
+
+#: includes/customizer/options.php:623
+msgid "Use Custom NavBar Font and Color?"
+msgstr ""
+
+#: includes/customizer/options.php:641
+msgid "NavBar Font"
+msgstr ""
+
+#: includes/customizer/options.php:669
+msgid "Link Color"
+msgstr ""
+
+#: includes/customizer/options.php:680
+msgid "Link Hover Color"
+msgstr ""
+
+#: includes/customizer/options.php:701
+msgid "Logo"
+msgstr ""
+
+#: includes/customizer/options.php:702
+msgid ""
+"All the settings for Logo go here. If you do not use Image for Logo, plain "
+"text will be used."
+msgstr ""
+
+#: includes/customizer/options.php:709
+msgid "Use Image for Logo?"
+msgstr ""
+
+#: includes/customizer/options.php:727
+msgid "Blog Name"
+msgstr ""
+
+#: includes/customizer/options.php:738
+msgid "Logo Font"
+msgstr ""
+
+#: includes/customizer/options.php:788
+msgid "Upload Your Logo"
+msgstr ""
+
+#: includes/customizer/options.php:799
+msgid "Fix Logo Image Height?"
+msgstr ""
+
+#: includes/customizer/options.php:812
+msgid "Image Height (px)"
+msgstr ""
+
+#: includes/customizer/options.php:826
+msgid "NavBar Top"
+msgstr ""
+
+#: includes/customizer/options.php:832
+msgid "Show Topbar"
+msgstr ""
+
+#: includes/customizer/options.php:896
+msgid "Show social Icon"
+msgstr ""
+
+#: includes/customizer/options.php:916
+msgid "Select widget"
+msgstr ""
+
+#: includes/customizer/options.php:932
+msgid "Email"
+msgstr ""
+
+#: includes/customizer/options.php:949
+msgid "Footer"
+msgstr ""
+
+#: includes/customizer/options.php:950
+msgid ""
+"Footer contains Widgetized area and Footer Bottom. You can change any parts."
+msgstr ""
+
+#: includes/customizer/options.php:957 includes/customizer/options.php:998
+msgid "Footer Columns (Widgetized)"
+msgstr ""
+
+#: includes/customizer/options.php:961 includes/customizer/options.php:1002
+msgid "None (No Footer Main Content)"
+msgstr ""
+
+#: includes/customizer/options.php:962 includes/customizer/options.php:1003
+msgid "One"
+msgstr ""
+
+#: includes/customizer/options.php:963 includes/customizer/options.php:1004
+#: includes/mega-menu/noo_mega_menu.php:144
+msgid "Two"
+msgstr ""
+
+#: includes/customizer/options.php:964 includes/customizer/options.php:1005
+#: includes/mega-menu/noo_mega_menu.php:146
+msgid "Three"
+msgstr ""
+
+#: includes/customizer/options.php:965 includes/customizer/options.php:1006
+#: includes/mega-menu/noo_mega_menu.php:148
+msgid "Four"
+msgstr ""
+
+#: includes/customizer/options.php:974
+msgid "Footer Style"
+msgstr ""
+
+#: includes/customizer/options.php:979
+msgid "Footer Business"
+msgstr ""
+
+#: includes/customizer/options.php:980
+msgid "Footer Business Dark"
+msgstr ""
+
+#: includes/customizer/options.php:981
+msgid "Footer Agency"
+msgstr ""
+
+#: includes/customizer/options.php:1026
+msgid "Footer Business Background Image"
+msgstr ""
+
+#: includes/customizer/options.php:1037
+msgid "Footer Agency Background Image"
+msgstr ""
+
+#: includes/customizer/options.php:1046
+msgid "- Menu Select -"
+msgstr ""
+
+#: includes/customizer/options.php:1053
+msgid "Footer Nav Menu"
+msgstr ""
+
+#: includes/customizer/options.php:1067
+msgid "Footer Bottom Content (HTML)"
+msgstr ""
+
+#: includes/customizer/options.php:1080
+msgid "Footer Top Content (HTML)"
+msgstr ""
+
+#: includes/customizer/options.php:1120 includes/customizer/options.php:1204
+#: includes/functions/noo-utilities.php:23
+#: includes/functions/noo-utilities.php:91
+msgid "Blog"
+msgstr ""
+
+#: includes/customizer/options.php:1121
+msgid ""
+"In this section you have settings for your Blog page, Archive page and "
+"Single Post page."
+msgstr ""
+
+#: includes/customizer/options.php:1128
+msgid "Post List"
+msgstr ""
+
+#: includes/customizer/options.php:1129
+msgid "Choose Layout settings for your Post List"
+msgstr ""
+
+#: includes/customizer/options.php:1136
+msgid "Blog Layout"
+msgstr ""
+
+#: includes/customizer/options.php:1158
+msgid "Blog Sidebar"
+msgstr ""
+
+#: includes/customizer/options.php:1166
+msgid "Blog Style"
+msgstr ""
+
+#: includes/customizer/options.php:1170 includes/customizer/options.php:1771
+msgid "List"
+msgstr ""
+
+#: includes/customizer/options.php:1171
+msgid "Masonry"
+msgstr ""
+
+#: includes/customizer/options.php:1185
+msgid "Masonry Columns"
+msgstr ""
+
+#: includes/customizer/options.php:1189
+msgid "2 columns"
+msgstr ""
+
+#: includes/customizer/options.php:1190
+msgid "3 columns"
+msgstr ""
+
+#: includes/customizer/options.php:1191
+msgid "4 columns"
+msgstr ""
+
+#: includes/customizer/options.php:1203
+msgid "Heading Title"
+msgstr ""
+
+#: includes/customizer/options.php:1222
+msgid "Show Readmore link"
+msgstr ""
+
+#: includes/customizer/options.php:1230 includes/customizer/options.php:1362
+msgid "Show Post Meta"
+msgstr ""
+
+#: includes/customizer/options.php:1238 includes/customizer/options.php:1370
+msgid "Show Post Tags"
+msgstr ""
+
+#: includes/customizer/options.php:1246
+msgid "Excerpt Length"
+msgstr ""
+
+#: includes/customizer/options.php:1257 includes/customizer/options.php:1385
+#: includes/customizer/options.php:1620
+msgid "Enable Social Sharing"
+msgstr ""
+
+#: includes/customizer/options.php:1274
+msgid "Sharing Title"
+msgstr ""
+
+#: includes/customizer/options.php:1275
+msgid "Share This Post"
+msgstr ""
+
+#: includes/customizer/options.php:1282 includes/customizer/options.php:1638
+msgid "Facebook Share"
+msgstr ""
+
+#: includes/customizer/options.php:1290 includes/customizer/options.php:1648
+msgid "Twitter Share"
+msgstr ""
+
+#: includes/customizer/options.php:1298 includes/customizer/options.php:1658
+msgid "Google+ Share"
+msgstr ""
+
+#: includes/customizer/options.php:1306 includes/customizer/options.php:1668
+msgid "Pinterest Share"
+msgstr ""
+
+#: includes/customizer/options.php:1314 includes/customizer/options.php:1678
+msgid "LinkedIn Share"
+msgstr ""
+
+#: includes/customizer/options.php:1321
+msgid "Single Post"
+msgstr ""
+
+#: includes/customizer/options.php:1328
+msgid "Post Layout"
+msgstr ""
+
+#: includes/customizer/options.php:1332
+msgid "Same as Blog Layout"
+msgstr ""
+
+#: includes/customizer/options.php:1378
+msgid "Show Author's Bio"
+msgstr ""
+
+#: includes/customizer/options.php:1414
+#, php-format
+msgid ""
+"Firstly assign a page as your %s page from dropdown list. %s page can be any "
+"page. Once you chose a page as %s Page, its slug will be your %s's main slug."
+msgstr ""
+
+#: includes/customizer/options.php:1423
+#, php-format
+msgid "List %s"
+msgstr ""
+
+#: includes/customizer/options.php:1433
+#, php-format
+msgid "%s Page"
+msgstr ""
+
+#: includes/customizer/options.php:1440
+#, php-format
+msgid "%s List"
+msgstr ""
+
+#: includes/customizer/options.php:1447
+#, php-format
+msgid "%s Heading Title"
+msgstr ""
+
+#: includes/customizer/options.php:1459
+#, php-format
+msgid "%s Heading Background Image"
+msgstr ""
+
+#: includes/customizer/options.php:1471
+#, php-format
+msgid "%s List Layout"
+msgstr ""
+
+#: includes/customizer/options.php:1495
+#, php-format
+msgid "%s List Sidebar"
+msgstr ""
+
+#: includes/customizer/options.php:1507
+#, php-format
+msgid "%s Layout"
+msgstr ""
+
+#: includes/customizer/options.php:1531 includes/customizer/options.php:1597
+#, php-format
+msgid "%s Sidebar"
+msgstr ""
+
+#: includes/customizer/options.php:1545
+msgid "Items Per Page"
+msgstr ""
+
+#: includes/customizer/options.php:1562
+#, php-format
+msgid "Single %s"
+msgstr ""
+
+#: includes/customizer/options.php:1572
+#, php-format
+msgid "Single %s Layout"
+msgstr ""
+
+#: includes/customizer/options.php:1576
+#, php-format
+msgid "Same as %s List Layout"
+msgstr ""
+
+#: includes/customizer/options.php:1702
+msgid "WooCommerce"
+msgstr ""
+
+#: includes/customizer/options.php:1710
+#: includes/framework/customizer/_init.php:148
+msgid "Shop Page"
+msgstr ""
+
+#: includes/customizer/options.php:1711
+msgid "Choose Layout and Headline Settings for your Shop Page."
+msgstr ""
+
+#: includes/customizer/options.php:1718
+msgid "Shop Layout"
+msgstr ""
+
+#: includes/customizer/options.php:1740
+msgid "Shop Sidebar"
+msgstr ""
+
+#: includes/customizer/options.php:1751
+msgid "Shop Heading"
+msgstr ""
+
+#: includes/customizer/options.php:1752 includes/functions/noo-utilities.php:28
+msgid "Shop"
+msgstr ""
+
+#: includes/customizer/options.php:1766
+msgid "Shop Default View Style"
+msgstr ""
+
+#: includes/customizer/options.php:1770
+msgid "Grid"
+msgstr ""
+
+#: includes/customizer/options.php:1779
+msgid "Products Grid Columns"
+msgstr ""
+
+#: includes/customizer/options.php:1794
+msgid "Products Per Page"
+msgstr ""
+
+#: includes/customizer/options.php:1808
+msgid "Single Product"
+msgstr ""
+
+#: includes/customizer/options.php:1815
+msgid "Product Layout"
+msgstr ""
+
+#: includes/customizer/options.php:1819
+msgid "Same as Shop Layout"
+msgstr ""
+
+#: includes/customizer/options.php:1846
+msgid "Related Products Count"
+msgstr ""
+
+#: includes/customizer/options.php:1867
+msgid "Social Media"
+msgstr ""
+
+#: includes/customizer/options.php:1868
+msgid ""
+"Input URLs of your social media profile. Inputting URL here means that "
+"corresponding social icon will be displayed when Social Icon is enabled on "
+"Top Bar and/or on Bottom Bar."
+msgstr ""
+
+#: includes/customizer/options.php:1875 includes/functions/noo-user.php:20
+msgid "Facebook Profile URL"
+msgstr ""
+
+#: includes/customizer/options.php:1883 includes/functions/noo-user.php:19
+msgid "Twitter Profile URL"
+msgstr ""
+
+#: includes/customizer/options.php:1891 includes/functions/noo-user.php:18
+msgid "Google+ Profile URL"
+msgstr ""
+
+#: includes/customizer/options.php:1899
+msgid "Pinterest Profile URL"
+msgstr ""
+
+#: includes/customizer/options.php:1907 includes/functions/noo-user.php:21
+msgid "LinkedIn Profile URL"
+msgstr ""
+
+#: includes/customizer/options.php:1915
+msgid "RSS Feed URL"
+msgstr ""
+
+#: includes/customizer/options.php:1923
+msgid "Youtube Profile URL"
+msgstr ""
+
+#: includes/customizer/options.php:1931
+msgid "Instagram Profile URL"
+msgstr ""
+
+#: includes/customizer/options.php:1949
+msgid "Custom Code"
+msgstr ""
+
+#: includes/customizer/options.php:1950
+msgid ""
+"In this section you can add custom JavaScript and CSS to your site.<br/>Your "
+"Google analytics tracking code should be added to Custom JavaScript field."
+msgstr ""
+
+#: includes/customizer/options.php:1957
+msgid "Custom JavaScript"
+msgstr ""
+
+#: includes/customizer/options.php:1966
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/customizer/options.php:1984
+msgid "Import/Export Settings"
+msgstr ""
+
+#: includes/customizer/options.php:1985
+msgid ""
+"All themes from NooTheme share the same theme setting structure so you can "
+"export then import settings from one theme to another conveniently without "
+"any problem."
+msgstr ""
+
+#: includes/customizer/options.php:1991
+msgid "Import Settings"
+msgstr ""
+
+#: includes/customizer/options.php:1992
+msgid ""
+"Click Upload button then choose a JSON file (.json) from your computer to "
+"import settings to this theme.<br/>All the settings will be loaded for "
+"preview here and will not be saved until you click button \"Save and Publish"
+"\"."
+msgstr ""
+
+#: includes/customizer/options.php:1999 widgets/widgets.php:561
+msgid "Upload"
+msgstr ""
+
+#: includes/customizer/options.php:2005
+msgid "Export Settings"
+msgstr ""
+
+#: includes/customizer/options.php:2006
+msgid ""
+"Simply click Download button to export all your settings to a JSON file (."
+"json).<br/>You then can use that file to restore theme settings to any theme "
+"of NooTheme."
+msgstr ""
+
+#: includes/customizer/options.php:2013
+msgid "Download"
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/framework/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/framework/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/framework/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/framework/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/framework/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/framework/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/framework/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/framework/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/framework/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:393
+#: includes/framework/class-tgm-plugin-activation.php:912
+#: includes/framework/class-tgm-plugin-activation.php:2618
+#: includes/framework/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:394
+#: includes/framework/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:395
+#: includes/framework/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/framework/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:1019
+#: includes/framework/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:1206
+#: includes/framework/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/framework/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/framework/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/framework/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/framework/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:3594
+#: includes/framework/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:3594
+#: includes/framework/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: includes/framework/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/framework/customizer/_init.php:80
+msgid "Mobile NavBar Height (px)"
+msgstr ""
+
+#: includes/framework/customizer/_init.php:81
+#: includes/framework/customizer/_init.php:144
+msgid "Updating ..."
+msgstr ""
+
+#: includes/framework/customizer/_init.php:82
+msgid "Error when parsing your file."
+msgstr ""
+
+#: includes/framework/customizer/_init.php:83
+msgid "We are preparing your export file, please wait..."
+msgstr ""
+
+#: includes/framework/customizer/_init.php:84
+msgid "There was a problem generating your export file, please try again."
+msgstr ""
+
+#: includes/framework/customizer/_init.php:142
+msgid "Yes"
+msgstr ""
+
+#: includes/framework/customizer/_init.php:143
+msgid "No"
+msgstr ""
+
+#: includes/framework/customizer/_init.php:145
+msgid ""
+"This option doesn't support live preview. Save it and see the change on your "
+"site."
+msgstr ""
+
+#: includes/framework/customizer/_init.php:146
+#, php-format
+msgid "Wanna go to %s to see the change?"
+msgstr ""
+
+#: includes/framework/customizer/_init.php:147
+msgid "Blog Page"
+msgstr ""
+
+#: includes/framework/customizer/_init.php:149
+msgid "An Archive Page"
+msgstr ""
+
+#: includes/framework/customizer/_init.php:150
+msgid "A Post"
+msgstr ""
+
+#: includes/framework/customizer/_init.php:151
+msgid "A Product"
+msgstr ""
+
+#: includes/framework/customizer/_init.php:160
+#, php-format
+msgid "%s Archive Page"
+msgstr ""
+
+#: includes/framework/customizer/_init.php:164
+#, php-format
+msgid "A %s Page"
+msgstr ""
+
+#: includes/framework/customizer/_init.php:392
+msgid "Customizer credentials"
+msgstr ""
+
+#: includes/framework/customizer/custom_controls.php:46
+msgid "ON"
+msgstr ""
+
+#: includes/framework/customizer/custom_controls.php:52
+msgid "OFF"
+msgstr ""
+
+#: includes/framework/customizer/custom_controls.php:469
+msgid "Media Library"
+msgstr ""
+
+#: includes/framework/customizer/custom_controls.php:477
+msgid "Open Library"
+msgstr ""
+
+#: includes/framework/customizer/custom_controls.php:595
+msgid "- Select Sidebar -"
+msgstr ""
+
+#: includes/framework/customizer/custom_controls.php:624
+msgid "- Select Page -"
+msgstr ""
+
+#: includes/framework/customizer/custom_controls.php:716
+msgid "Extra Light"
+msgstr ""
+
+#: includes/framework/customizer/custom_controls.php:717
+msgid "Extra Light Italic"
+msgstr ""
+
+#: includes/framework/customizer/custom_controls.php:718
+msgid "Light"
+msgstr ""
+
+#: includes/framework/customizer/custom_controls.php:719
+msgid "Light Italic"
+msgstr ""
+
+#: includes/framework/customizer/custom_controls.php:720
+msgid "Book"
+msgstr ""
+
+#: includes/framework/customizer/custom_controls.php:721
+msgid "Book Italic"
+msgstr ""
+
+#: includes/framework/customizer/custom_controls.php:722
+msgid "Regular"
+msgstr ""
+
+#: includes/framework/customizer/custom_controls.php:723
+msgid "Regular Italic"
+msgstr ""
+
+#: includes/framework/customizer/custom_controls.php:724
+msgid "Medium"
+msgstr ""
+
+#: includes/framework/customizer/custom_controls.php:725
+msgid "Medium Italic"
+msgstr ""
+
+#: includes/framework/customizer/custom_controls.php:726
+msgid "Semi-bold"
+msgstr ""
+
+#: includes/framework/customizer/custom_controls.php:727
+msgid "Semi-bold Italic"
+msgstr ""
+
+#: includes/framework/customizer/custom_controls.php:728
+msgid "Bold"
+msgstr ""
+
+#: includes/framework/customizer/custom_controls.php:729
+msgid "Bold Italic"
+msgstr ""
+
+#: includes/framework/customizer/custom_controls.php:730
+msgid "Extra-bold"
+msgstr ""
+
+#: includes/framework/customizer/custom_controls.php:731
+msgid "Extra-bold Italic"
+msgstr ""
+
+#: includes/framework/customizer/custom_controls.php:732
+msgid "Heavy"
+msgstr ""
+
+#: includes/framework/customizer/custom_controls.php:733
+msgid "Heavy Italic"
+msgstr ""
+
+#: includes/framework/customizer/custom_controls.php:742
+msgid "- Font Family -"
+msgstr ""
+
+#: includes/framework/customizer/custom_controls.php:754
+msgid "- Styles -"
+msgstr ""
+
+#: includes/framework/customizer/custom_controls.php:770
+msgid "- Subsets -"
+msgstr ""
+
+#: includes/framework/customizer/custom_controls.php:867
+msgid "Mailchimp API key"
+msgstr ""
+
+#: includes/framework/customizer/custom_controls.php:868
+#, php-format
+msgid ""
+"Enter Mailchimp API key to connect to your account. Don't know where to "
+"find? <a href=\"%s\" target=\"_BLANK\">Just click here to get your API</a>"
+msgstr ""
+
+#: includes/framework/customizer/live-ajax.php:186
+msgid "Assign a menu"
+msgstr ""
+
+#: includes/framework/libs/noo-check-version.php:109
+#: includes/framework/libs/noo-check-version.php:163
+#, php-format
+msgid "%s License"
+msgstr ""
+
+#: includes/framework/libs/noo-check-version.php:131
+#, php-format
+msgid ""
+"License <a target=\"_blank\" href=\"%s\" style=\"\">How to get License key?</"
+"a>"
+msgstr ""
+
+#: includes/framework/libs/noo-check-version.php:138
+msgid "License e-mail or domain address"
+msgstr ""
+
+#: includes/framework/libs/noo-check-version.php:146
+msgid "License key"
+msgstr ""
+
+#: includes/framework/libs/noo-check-version.php:227
+#, php-format
+msgid "Please enter your license key to enable updates to %s."
+msgstr ""
+
+#: includes/framework/libs/noo-check-version.php:237
+msgid "Complete the setup now."
+msgstr ""
+
+#: includes/framework/meta-boxes/class-helper.php:118
+msgid "M4V File URL"
+msgstr ""
+
+#: includes/framework/meta-boxes/class-helper.php:119
+msgid "Place the URL to your .m4v video file here."
+msgstr ""
+
+#: includes/framework/meta-boxes/class-helper.php:124
+msgid "OGV File URL"
+msgstr ""
+
+#: includes/framework/meta-boxes/class-helper.php:125
+msgid "Place the URL to your .ogv video file here."
+msgstr ""
+
+#: includes/framework/meta-boxes/class-helper.php:145
+msgid ""
+"If you are using something other than self hosted video (YouTube, Vimeo, "
+"etc.) paste the embed code here. This field will override the above settings."
+msgstr ""
+
+#: includes/framework/meta-boxes/class-helper.php:154
+msgid "Upload Image"
+msgstr ""
+
+#: includes/framework/meta-boxes/generate-meta-box.php:101
+#: includes/framework/meta-boxes/generate-meta-box.php:171
+msgid "Edit Gallery"
+msgstr ""
+
+#: includes/framework/meta-boxes/generate-meta-box.php:101
+#: includes/framework/meta-boxes/generate-meta-box.php:184
+msgid "Add Images"
+msgstr ""
+
+#: includes/framework/meta-boxes/generate-meta-box.php:104
+msgid "Clear Gallery"
+msgstr ""
+
+#: includes/framework/meta-boxes/generate-meta-box.php:204
+#: includes/framework/meta-boxes/generate-meta-box.php:245
+msgid "Change File"
+msgstr ""
+
+#: includes/framework/meta-boxes/generate-meta-box.php:204
+#: includes/framework/meta-boxes/generate-meta-box.php:256
+msgid "Select File"
+msgstr ""
+
+#: includes/framework/meta-boxes/generate-meta-box.php:207
+msgid "Clear File"
+msgstr ""
+
+#: includes/framework/meta-boxes/generate-meta-box.php:228
+msgid "Select or Upload your File"
+msgstr ""
+
+#: includes/framework/meta-boxes/generate-meta-box.php:566
+msgid "Full-Width Page"
+msgstr ""
+
+#: includes/framework/meta-boxes/generate-meta-box.php:569
+msgid "Page With Right Sidebar"
+msgstr ""
+
+#: includes/framework/meta-boxes/generate-meta-box.php:572
+msgid "Page With Left Sidebar"
+msgstr ""
+
+#: includes/framework/meta-boxes/generate-meta-box.php:576
+#, php-format
+msgid ""
+"Global setting for the Layout of Single Post page is: <strong>%s</strong>"
+msgstr ""
+
+#: includes/framework/meta-boxes/generate-meta-box.php:579
+#, php-format
+msgid "And the Sidebar is: <strong>%s</strong>"
+msgstr ""
+
+#: includes/framework/meta-boxes/generate-meta-box.php:602
+msgid "Don't Need Menu"
+msgstr ""
+
+#: includes/framework/meta-boxes/generate-meta-box.php:617
+msgid "No User"
+msgstr ""
+
+#: includes/framework/meta-boxes/generate-meta-box.php:645
+msgid " - No Slider - "
+msgstr ""
+
+#: includes/functions/noo-enqueue-css.php:40
+msgctxt "Body font: on or off"
+msgid "on"
+msgstr ""
+
+#: includes/functions/noo-enqueue-css.php:42
+msgctxt "Special font: on or off"
+msgid "on"
+msgstr ""
+
+#: includes/functions/noo-enqueue-css.php:44
+msgctxt "Heading font: on or off"
+msgid "on"
+msgstr ""
+
+#: includes/functions/noo-enqueue-css.php:46
+msgctxt "Nav font: on or off"
+msgid "on"
+msgstr ""
+
+#: includes/functions/noo-enqueue-css.php:48
+msgctxt "Logo font: on or off"
+msgid "on"
+msgstr ""
+
+#: includes/functions/noo-enqueue-css.php:95
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr ""
+
+#: includes/functions/noo-enqueue-js.php:71
+#: includes/functions/noo-enqueue-js.php:78
+msgid "All posts displayed"
+msgstr ""
+
+#: includes/functions/noo-html-featured.php:73
+#, php-format
+msgid "\"%s\""
+msgstr ""
+
+#: includes/functions/noo-html-featured.php:113
+#: includes/functions/noo-html-featured.php:138
+#: includes/functions/noo-html-featured.php:212
+#: includes/functions/noo-html-featured.php:354
+#, php-format
+msgid "Permalink to: \"%s\""
+msgstr ""
+
+#: includes/functions/noo-html-pagination.php:137
+msgid "Newer Entries"
+msgstr ""
+
+#: includes/functions/noo-html-pagination.php:137
+msgid "Older Entries"
+msgstr ""
+
+#: includes/functions/noo-html-pagination.php:154 index.php:54
+msgid "Load More"
+msgstr ""
+
+#: includes/functions/noo-html.php:56
+msgid "Post<br/>Author"
+msgstr ""
+
+#: includes/functions/noo-html.php:66
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: includes/functions/noo-html.php:69
+msgid "Edit"
+msgstr ""
+
+#: includes/functions/noo-html.php:73
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: includes/functions/noo-html.php:81
+msgid "Reply"
+msgstr ""
+
+#: includes/functions/noo-html.php:113
+msgid "Name*"
+msgstr ""
+
+#: includes/functions/noo-html.php:114
+msgid "Email*"
+msgstr ""
+
+#: includes/functions/noo-html.php:115
+msgid "Website"
+msgstr ""
+
+#: includes/functions/noo-html.php:116 includes/functions/noo-html.php:131
+msgid "Your Comment"
+msgstr ""
+
+#: includes/functions/noo-html.php:120
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: includes/functions/noo-html.php:121
+msgid "Leave us a comment"
+msgstr ""
+
+#: includes/functions/noo-html.php:122
+#, php-format
+msgid "Leave a reply to %s"
+msgstr ""
+
+#: includes/functions/noo-html.php:123
+msgid "Click here to cancel the reply"
+msgstr ""
+
+#: includes/functions/noo-html.php:126
+msgid "Post Comments"
+msgstr ""
+
+#: includes/functions/noo-html.php:178 includes/functions/noo-html.php:254
+msgid "Share on Facebook"
+msgstr ""
+
+#: includes/functions/noo-html.php:188 includes/functions/noo-html.php:262
+msgid "Share on Twitter"
+msgstr ""
+
+#: includes/functions/noo-html.php:197 includes/functions/noo-html.php:269
+msgid "Share on Google+"
+msgstr ""
+
+#: includes/functions/noo-html.php:206 includes/functions/noo-html.php:276
+msgid "Share on Pinterest"
+msgstr ""
+
+#: includes/functions/noo-html.php:215
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: includes/functions/noo-html.php:251
+msgid "Share:"
+msgstr ""
+
+#: includes/functions/noo-html.php:305
+msgid "Google+"
+msgstr ""
+
+#: includes/functions/noo-html.php:307
+msgid "LinkedIn"
+msgstr ""
+
+#: includes/functions/noo-html.php:308
+msgid "RSS"
+msgstr ""
+
+#: includes/functions/noo-html.php:309
+msgid "YouTube"
+msgstr ""
+
+#: includes/functions/noo-html.php:324
+msgid "No Social Media Link"
+msgstr ""
+
+#: includes/functions/noo-html.php:367
+msgid "Leave a comment"
+msgstr ""
+
+#: includes/functions/noo-html.php:367
+msgid "1 Comment"
+msgstr ""
+
+#: includes/functions/noo-html.php:367
+msgid "% Comments"
+msgstr ""
+
+#: includes/functions/noo-utilities.php:26
+#: includes/functions/noo-utilities.php:31 layouts/navbar.php:126
+#: searchform.php:2 searchform.php:4
+msgid "Search"
+msgstr ""
+
+#: includes/functions/noo-utilities.php:34
+msgid "Author Archive"
+msgstr ""
+
+#: includes/functions/noo-utilities.php:36
+msgid "Post Archive by Year: "
+msgstr ""
+
+#: includes/functions/noo-utilities.php:38
+msgid "Post Archive by Month: "
+msgstr ""
+
+#: includes/functions/noo-utilities.php:40
+msgid "Post Archive by Day: "
+msgstr ""
+
+#: includes/functions/noo-utilities.php:42
+msgid "Oops! We could not find anything to show to you."
+msgstr ""
+
+#: includes/functions/noo-utilities.php:43
+msgid "Would you like going else where to find your stuff."
+msgstr ""
+
+#: includes/mega-menu/noo-edit-walker.php:81
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: includes/mega-menu/noo-edit-walker.php:85
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: includes/mega-menu/noo-edit-walker.php:108
+msgid "Move up"
+msgstr ""
+
+#: includes/mega-menu/noo-edit-walker.php:121
+msgid "Move down"
+msgstr ""
+
+#: includes/mega-menu/noo-edit-walker.php:123
+#: includes/mega-menu/noo-edit-walker.php:125
+msgid "Edit Menu Item"
+msgstr ""
+
+#: includes/mega-menu/noo-edit-walker.php:134
+msgid "URL"
+msgstr ""
+
+#: includes/mega-menu/noo-edit-walker.php:141
+msgid "Navigation Label"
+msgstr ""
+
+#: includes/mega-menu/noo-edit-walker.php:147
+msgid "Title Attribute"
+msgstr ""
+
+#: includes/mega-menu/noo-edit-walker.php:154
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: includes/mega-menu/noo-edit-walker.php:159
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: includes/mega-menu/noo-edit-walker.php:165
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: includes/mega-menu/noo-edit-walker.php:171 widgets/widgets.php:564
+msgid "Description"
+msgstr ""
+
+#: includes/mega-menu/noo-edit-walker.php:173
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: includes/mega-menu/noo-edit-walker.php:186
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: includes/mega-menu/noo-edit-walker.php:199
+msgid "Remove"
+msgstr ""
+
+#: includes/mega-menu/noo-edit-walker.php:200
+msgid "Cancel"
+msgstr ""
+
+#: includes/mega-menu/noo_mega_menu.php:52
+msgid "Icon"
+msgstr ""
+
+#: includes/mega-menu/noo_mega_menu.php:72
+msgid "Ex: balance-scale"
+msgstr ""
+
+#: includes/mega-menu/noo_mega_menu.php:81
+msgid "Size"
+msgstr ""
+
+#: includes/mega-menu/noo_mega_menu.php:95
+msgid "Icon Alignment"
+msgstr ""
+
+#: includes/mega-menu/noo_mega_menu.php:100
+msgid "Left"
+msgstr ""
+
+#: includes/mega-menu/noo_mega_menu.php:102
+msgid "Right"
+msgstr ""
+
+#: includes/mega-menu/noo_mega_menu.php:104
+msgid "Center"
+msgstr ""
+
+#: includes/mega-menu/noo_mega_menu.php:120
+msgid "Enable megamenu"
+msgstr ""
+
+#: includes/mega-menu/noo_mega_menu.php:138
+msgid "Megamenu columns"
+msgstr ""
+
+#: includes/mega-menu/noo_mega_menu.php:150
+msgid "Five"
+msgstr ""
+
+#: includes/mega-menu/noo_mega_menu.php:152
+msgid "Six"
+msgstr ""
+
+#: includes/mega-menu/noo_mega_menu.php:162
+msgid "Hide Mega menu heading?"
+msgstr ""
+
+#: includes/mega-menu/noo_mega_menu.php:168
+msgid "Mega Menu Widget Area"
+msgstr ""
+
+#: includes/mega-menu/noo_mega_menu.php:172
+msgid "Select Widget Area"
+msgstr ""
+
+#: includes/mega-menu/noo_mega_menu.php:375
+msgid "No menu assigned!"
+msgstr ""
+
+#: includes/theme_setup.php:54
+msgid "Primary Menu"
+msgstr ""
+
+#: includes/theme_setup.php:55
+msgid "Menu Left"
+msgstr ""
+
+#: includes/theme_setup.php:56
+msgid "Menu Right"
+msgstr ""
+
+#: includes/theme_setup.php:59
+msgid "Top Menu"
+msgstr ""
+
+#: includes/theme_setup.php:63
+msgid "Footer Menu"
+msgstr ""
+
+#: includes/woocommerce.php:23 layouts/navbar.php:155
+msgid "MY CART"
+msgstr ""
+
+#: includes/woocommerce.php:58
+msgid "% items"
+msgstr ""
+
+#: includes/woocommerce.php:60
+msgid "0 items"
+msgstr ""
+
+#: includes/woocommerce.php:62
+msgid "1 item"
+msgstr ""
+
+#: includes/woocommerce.php:79 includes/woocommerce.php:194
+#: includes/woocommerce.php:200
+msgid "View Cart"
+msgstr ""
+
+#: includes/woocommerce.php:125 includes/woocommerce.php:140
+msgid "View cart"
+msgstr ""
+
+#: includes/woocommerce.php:143
+msgid "Items"
+msgstr ""
+
+#: includes/woocommerce.php:145
+msgid "Cart"
+msgstr ""
+
+#: includes/woocommerce.php:153
+msgid "in the shopping cart"
+msgstr ""
+
+#: includes/woocommerce.php:171
+msgid "x "
+msgstr ""
+
+#: includes/woocommerce.php:179 woocommerce/cart/cart.php:109
+msgid "Remove this item"
+msgstr ""
+
+#: includes/woocommerce.php:186 woocommerce/cart/cart-totals.php:25
+msgid "Subtotal"
+msgstr ""
+
+#: includes/woocommerce.php:196 includes/woocommerce.php:203
+msgid "Checkout"
+msgstr ""
+
+#: includes/woocommerce.php:208
+msgid "Your shopping bag is empty."
+msgstr ""
+
+#: includes/woocommerce.php:219
+msgid "Go to the shop"
+msgstr ""
+
+#: includes/woocommerce.php:242
+msgid "View Wishlist"
+msgstr ""
+
+#: includes/woocommerce.php:466
+msgid "Quick view"
+msgstr ""
+
+#: includes/woocommerce.php:486
+msgid "View detail"
+msgstr ""
+
+#: includes/woocommerce.php:502
+msgid "Box contents"
+msgstr ""
+
+#: includes/woocommerce.php:525
+msgid ""
+"We’ll do our best to send you the things you’ve chosen. Our photos don’t "
+"show the actual quantities."
+msgstr ""
+
+#: layouts/navbar.php:97 layouts/topbar.php:38
+#: woocommerce/checkout/thankyou.php:30
+msgid "My Account"
+msgstr ""
+
+#: layouts/navbar.php:100 layouts/topbar.php:50
+msgid "Log In / Sign Up"
+msgstr ""
+
+#: layouts/navbar.php:106 layouts/topbar.php:44
+msgid "Log Out"
+msgstr ""
+
+#: layouts/navbar.php:114 layouts/topbar.php:58
+msgid "Wishlist"
+msgstr ""
+
+#: layouts/navbar.php:144
+msgid "CALL US NOW"
+msgstr ""
+
+#: searchform.php:3
+msgid "Enter keyword to search..."
+msgstr ""
+
+#: single.php:20
+#, php-format
+msgid "Post by %s"
+msgstr ""
+
+#: widgets/widgets.php:11
+msgid "Display Happy Hours"
+msgstr ""
+
+#: widgets/widgets.php:53
+msgid "Happy Hours"
+msgstr ""
+
+#: widgets/widgets.php:63 widgets/widgets.php:178 widgets/widgets.php:356
+#: widgets/widgets.php:470 widgets/widgets.php:551
+msgid "Title:"
+msgstr ""
+
+#: widgets/widgets.php:77 widgets/widgets.php:192
+msgid "ADD Field"
+msgstr ""
+
+#: widgets/widgets.php:84 widgets/widgets.php:199 widgets/widgets.php:667
+msgid "Title"
+msgstr ""
+
+#: widgets/widgets.php:89 widgets/widgets.php:204
+msgid "Content"
+msgstr ""
+
+#: widgets/widgets.php:130
+msgid "Display Open Hours"
+msgstr ""
+
+#: widgets/widgets.php:168
+msgid "Open Hours"
+msgstr ""
+
+#: widgets/widgets.php:248
+msgid "Your site&#8217;s most recent Posts."
+msgstr ""
+
+#: widgets/widgets.php:249
+msgid "Noo Recent Posts"
+msgstr ""
+
+#: widgets/widgets.php:268
+msgid "Recent Posts"
+msgstr ""
+
+#: widgets/widgets.php:359
+msgid "Number of posts to show:"
+msgstr ""
+
+#: widgets/widgets.php:363
+msgid "Display post date?"
+msgstr ""
+
+#: widgets/widgets.php:373
+msgid "Display Noo Custom Menu."
+msgstr ""
+
+#: widgets/widgets.php:374
+msgid "Noo Custom Menu"
+msgstr ""
+
+#: widgets/widgets.php:466
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: widgets/widgets.php:474
+msgid "Select Menu 1:"
+msgstr ""
+
+#: widgets/widgets.php:476 widgets/widgets.php:487
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: widgets/widgets.php:485
+msgid "Select Menu 2:"
+msgstr ""
+
+#: widgets/widgets.php:507
+msgid "Display about"
+msgstr ""
+
+#: widgets/widgets.php:508
+msgid "Noo About"
+msgstr ""
+
+#: widgets/widgets.php:555
+msgid "Link Image:"
+msgstr ""
+
+#: widgets/widgets.php:597
+msgid "Noo Social"
+msgstr ""
+
+#: widgets/widgets.php:598
+msgid "Display soical"
+msgstr ""
+
+#: widgets/widgets.php:681
+msgid "Google"
+msgstr ""
+
+#: widgets/widgets.php:695
+msgid "Youtube"
+msgstr ""
+
+#: widgets/widgets.php:702
+msgid "Skype"
+msgstr ""
+
+#: widgets/widgets.php:709
+msgid "linkedin"
+msgstr ""
+
+#: widgets/widgets.php:716
+msgid "Dribbble"
+msgstr ""
+
+#: widgets/widgets.php:744
+msgid "Click icon social open new tab?"
+msgstr ""
+
+#: widgets/widgets_init.php:22
+msgid "Main Sidebar"
+msgstr ""
+
+#: widgets/widgets_init.php:24
+msgid "Default Blog Sidebar."
+msgstr ""
+
+#: widgets/widgets_init.php:32
+msgid "Secondary Sidebar"
+msgstr ""
+
+#: widgets/widgets_init.php:34
+msgid "Display widget on Header 3."
+msgstr ""
+
+#: widgets/widgets_init.php:42
+msgid "NOO - Footer Top"
+msgstr ""
+
+#: widgets/widgets_init.php:44
+msgid "Display Footer Top."
+msgstr ""
+
+#: widgets/widgets_init.php:55
+msgid "NOO - Footer Column #"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:20
+msgid "Cart Totals"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:47
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:79 woocommerce/cart/cart.php:29
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:91
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:94
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: woocommerce/cart/cart.php:27
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:28
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:69
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:124
+msgid "continue shopping"
+msgstr ""
+
+#: woocommerce/cart/cart.php:128 woocommerce/cart/cart.php:152
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:128 woocommerce/cart/cart.php:154
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:128 woocommerce/cart/cart.php:155
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:134
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart/cart.php:153
+msgid "Enter your code if you have one"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:52
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:18
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:22
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:24
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:28
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:36 woocommerce/checkout/thankyou.php:67
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:40
+msgid "Order Number:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:44
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:48
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:53
+msgid "Payment Method:"
+msgstr ""
+
+#: woocommerce/loop/rating.php:23
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: woocommerce/loop/rating.php:25
+msgid "out of 5"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:30
+msgid "Showing the single result"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:32
+#, php-format
+msgid "Showing all <em> %d </em> results"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:34
+#, php-format
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:112
+msgid "Placeholder"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "NOO Organici"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://wp.nootheme.com/organici"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Organici is an advanced WordPress theme that perfectly designed and "
+"developed for all kinds of Organic Store. Flexible settings, Fast loading, "
+"Fully responsive, Retina ready,  SEO Friendly, One click demo, Devoted "
+"support and much more are blended together in Organici."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "NooTheme"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.nootheme.com/"
+msgstr ""

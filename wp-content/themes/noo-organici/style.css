@@ -1,0 +1,68 @@
+/*
+
+Theme Name: NOO Organici
+Theme URI: https://wp.nootheme.com/organici
+Author: NooTheme
+Author URI: https://www.nootheme.com/
+Description: Organici is an advanced WordPress theme that perfectly designed and developed for all kinds of Organic Store. Flexible settings, Fast loading, Fully responsive, Retina ready,  SEO Friendly, One click demo, Devoted support and much more are blended together in Organici.
+Version: 1.8.7
+License: GNU General Public License v2.0
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: two-columns, left-sidebar, right-sidebar, custom-background, custom-header, custom-menu, editor-style, featured-images, flexible-header, full-width-template, sticky-post, theme-options, translation-ready
+Text Domain: noo-organici
+
+*/
+
+.screen-reader-text {}
+.bypostauthor {}
+
+
+@media (max-width: 991px){
+    .noo-header.header-5 .menu-position {
+        height: 100px;
+        padding-top: 20px;
+    }
+    .noo-header.header-5 .noo-header-anchor {
+        border-bottom: 1px solid #eee;
+        display: block;
+        height: 30px;
+        left: 0;
+        padding-top: 3px;
+        top: 0;
+    }
+    .noo-header.header-5 .noo-header-anchor ul:after{
+        clear: both;
+        display: table;
+        content: '';
+    }
+    .noo-header.header-5 .noo-header-anchor ul li{
+        float: left;
+    }
+    .noo-header.header-5 .noo-header-anchor ul li:after{
+        clear: both;
+        display: table;
+        content: '';
+    }
+    .noo-header.header-5 .noo-header-anchor ul li:first-child div:first-child span {
+        display: none;
+    }
+    .noo-header.header-5 .noo-header-anchor ul li:first-child div:first-child{
+        float: right;
+        margin-right: 10px;
+    }
+    .noo-header.header-5 .noo-header-anchor ul li:last-child div:last-child{
+        display: none;
+    }
+    .noo-header.header-5 .noo-header-anchor ul li i {
+        font-size: 18px;
+    }
+    .noo-header.header-5 .noo-header-anchor ul li div span.has-cart em {
+        top: -2px;
+    }
+    .noo-header.header-5 .noo_menu_canvas{
+        -webkit-transform: translate(0, 0);
+        -ms-transform: translate(0, 0);
+        -o-transform: translate(0, 0);
+         transform: translate(0, 0);
+    }
+}
